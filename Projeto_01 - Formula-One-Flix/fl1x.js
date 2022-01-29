@@ -3,7 +3,7 @@ var canaisF1 = [
 
     "<a href=https://www.youtube.com/c/VelocidadeAlta target=_blank> <img src=https://yt3.ggpht.com/ytc/AKedOLSbkAob8g67abXV3u76gwOapiFHw_OTiT0PrkDvyg=s88-c-k-c0x00ffffff-no-rj class=logoYt > </a>",
 
-    "<a href=https://www.youtube.com/c/GPEMCASA target=_blank> <img src=https://yt3.ggpht.com/5xJs9eyfovd8D4TJ5DZWXgNDjDV2tJLWLyS9AZBXIV8USNQbxLfEdB6sLKVjz3pEfVG75FxD=s88-c-k-c0x00ffffff-no-rj class=logoYt > </a>",
+    "<a href=https://www.youtube.com/c/GPEMCASA target=_blank> <img src=https://yt3.ggpht.com/maqMmAiodfnpmIblvUW51PJVU-vbW2fQlQ4NQ9-hyrZOQ8qfjo5t3vpgicgkS7YGCgSpGaUWOg=s88-c-k-c0x00ffffff-no-rj class=logoYt > </a>",
 
     "<a href=https://www.youtube.com/channel/UCXHm4g2vzvFYgZUL8PETqKw target=_blank> <img src=https://yt3.ggpht.com/ytc/AKedOLQo0xHbFfVkgzmC32QUQ6czlwzFegGkAgMlOGri6A=s88-c-k-c0x00ffffff-no-rj class=logoYt > </a>",
 ]
