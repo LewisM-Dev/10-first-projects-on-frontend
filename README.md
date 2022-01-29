@@ -97,5 +97,5 @@ Fiz um Toggle Switch, totalmente em CSS, bem interativo e legal!
 * [🔗 Site do Projeto](https://lewism-dev.github.io/10-first-projects-on-frontend/Projeto_08%20-%20Switch(CSS)/)
 
 ## Considerações Finais
-Espero que tenh gostado dos projetos, foi uma evolução muito grande fazer todos esse desafios, e acho que aprendi muito como Web Developer!
+Espero que tenham gostado dos projetos, foi uma evolução muito grande fazer todos esse desafios, e acho que aprendi muito como Web Developer!
 Valeuu! ✌
