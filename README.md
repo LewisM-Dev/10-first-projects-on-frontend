@@ -9,9 +9,9 @@ Então sem mais enrolações esses são meus 10 primeiros projetos usando em HTM
 * [📃 Projeto 05 - Cofre Monetário](#id05)
 * [📃 Projeto 06 - Coca Cola Landing Page](#id06)
 * [📃 Projeto 07 - Página de Login](#id07)
-* [📃 Projeto 08 - Formula Flix](#id01)
-* [📃 Projeto 09 - Formula Flix](#id01)
-* [📃 Projeto 10 - (Em breve)](#id01)
+* [📃 Projeto 08 - Switch](#id08)
+* [📃 Projeto 09 - (Em breve](#id09)
+* [📃 Projeto 10 - (Em breve)](#id10)
 
 ## Projeto 01 - Formula Flix <a name="id01"></a>
 
