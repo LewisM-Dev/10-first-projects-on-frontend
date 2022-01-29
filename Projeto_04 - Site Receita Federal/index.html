@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link href="style.css" rel="stylesheet"/>
+    <title>Receita Federal</title>
+</head>
+<body>
+    
+    <h1>Bem vindo a Receita Federal</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Logo_Receita_Federal_do_Brasil.svg/1200px-Logo_Receita_Federal_do_Brasil.svg.png" id="Logo">
+
+    <br>
+
+    <div id="grupos">
+        
+                <br>
+                <div id="grupo-1">Pessoa 1 <br>
+                        <div id="depositar">
+                            <p>Depositar</p>
+                            <label for="deposito">
+                               R$ <input type="number" id="deposito-1" min="1" max="99999"> 
+                               <button onclick="deposito1()" type="submit">OK</button>
+                            </label>
+                        </div>
+                        <div id="saque">
+                            <p>Retirar</p>
+                            <label for="saca">
+                                R$ <input type="number" id="retirar-1" min="1" max="99999">
+                                <button onclick="retira1()" type="submit">OK</button>
+                                <br>
+                                <br>
+                                <br>
+                                <p id="escreve1"></p>
+                            </label>
+                        </div>
+                    <br></div>
+
+                <div id="grupo-2">Pessoa 2 <br>
+                        <div id="deposito">
+                            <p>Depositar</p>
+                            <label for="deposito">
+                               R$ <input type="number" id="deposito-2"
+                                min="1" max="99999">
+                                <button onclick="deposito2()" type="submit">OK</button>
+                            </label>
+                        </div>
+
+                        <div id="saque">
+                            <p>Retirar</p>
+                            <label for="saca">
+                               R$ <input type="number" id="retirar-2"
+                                min="1" max="99999">
+                                <button onclick="retira2()" type="submit">OK</button>
+                                <br>
+                                <br>
+                                <br>
+                                <p id="escreve2"></p>
+                            </label>
+                        </div></div>
+
+                        <div id="grupo-3">Pessoa 3 <br>
+                            <div id="deposito">
+                                <p>Depositar</p>
+                                <label for="deposito">
+                                   R$ <input type="number" id="deposito-3"
+                                    min="1" max="99999">
+                                    <button onclick="deposito3()" type="submit">OK</button>
+                                </label>
+                            </div>
+    
+                            <div id="saque">
+                                <p>Retirar</p>
+                                <label for="saca">
+                                   R$ <input type="number" id="retirar-3"
+                                    min="1" max="99999">
+                                    <button onclick="retira3()" type="submit">OK</button>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <p id="escreve3"></p>
+                                </label>
+                            </div></div>
+                    
+</body>
+    <script src="script.js"></script>
+</html>

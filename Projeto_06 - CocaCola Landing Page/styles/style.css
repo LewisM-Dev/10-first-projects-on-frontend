@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@700&display=swap');
+
+body {
+    background-color: #151515;
+}
+
+header {
+    font-family: 'Manrope', sans-serif;
+    margin-top: 35px;
+    display: flex;
+}
+
+#menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+
+    position: static;
+    width: 624px;
+    height: 60px;
+    left: 14px;
+    top: 6.5px;
+
+    background-color: rgba(77, 77, 77, 0.3);
+    border-radius: 10px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 100px;
+}
+
+#menu a {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+
+    color: #FFFFFF;
+
+    margin: 0px 40px;
+}
+
+#coca-ofiça {
+    position: static;
+    width: 276px;
+    height: 55px;
+    left: 838px;
+    top: 14px;
+    padding: 10px 30px;
+
+    background-color: #BC0202;
+    
+    border-radius: 6px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 10px 100px;
+    border: 0px;
+
+    /* texto */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    /* identical to box height */
+
+    letter-spacing: 0.02em;
+    text-decoration-line: underline;
+
+    color: #FFFFFF;
+}
+
+#coca-ofiça:hover {
+    cursor:pointer;
+}
+
+#SS1{
+    position: absolute;
+    width: 549px;
+    height: 123px;
+    left: 400px;
+    top: 103px;
+
+    font-family: 'Manrope', "sans-serif";
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 700;
+    font-size: 90px;
+    line-height: 123px;
+    /* identical to box height */
+
+    letter-spacing: -0.03em;
+
+    color: rgba(255, 20, 20, 0.4);
+}
+
+#SS2{
+    position: absolute;
+    width: 549px;
+    height: 123px;
+    left: 400px;
+    top: 130px;
+
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 90px;
+    line-height: 123px;
+    /* identical to box height */
+
+    letter-spacing: -0.03em;
+
+    color: #FFFFFF;
+
+    text-shadow: 0px 6px 9px rgba(0, 0, 0, 0.1);
+}
+
+main img {
+    position: absolute;
+    width: 310px;
+    left: 530px;
+    top: 342px;
+}
+
+#c1 {
+    position: absolute;
+    width: 221px;
+    height: 200px;
+    left: -70px;
+    top: 425px;
+    border-radius: 50px;
+
+    background: #D81D11;
+    filter: blur(140px);
+}
+
+#c2 {
+    position: absolute;
+    width: 221px;
+    height: 221px;
+    left: 1100px;
+    top: 76px;
+    border-radius: 50px;
+
+    background: #D81D11;
+    filter: blur(140px);
+}
+
+#receita {
+    color: #FFFFFF;
+    width: 800px;
+    margin-left: 100px;
+}
