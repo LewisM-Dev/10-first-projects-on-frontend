@@ -26,7 +26,7 @@ DETALHE: Esse Projeto Foi Desenvolvido durante a Imersão Dev da Alura, Acesse o
 
 ## Projeto 02 - Glegoo <a name="id02"></a>
 
-![Screenshot2]() <br>
+![Screenshot2](https://github.com/LewisM-Dev/10-first-projects-on-frontend/blob/main/img/Screenshot2.png?raw=true) <br>
 
 Basicamente uma "Inspiração" (Bem mal feita por sinal 😂) do maior buscador do mundo! <br>
 Nesse projeto eu estava treinando como pegar informações de inputs e utilizá-las de alguma forma no JavaScript
@@ -36,7 +36,7 @@ Nesse projeto eu estava treinando como pegar informações de inputs e utilizá-
 
 ## Projeto 03 - Calculadora <a name="id03"></a>
 
-![Screenshot3]() <br>
+![Screenshot3](https://github.com/LewisM-Dev/10-first-projects-on-frontend/blob/main/img/Screenshot3.png?raw=true) <br>
 
 Uma calculadora com uma lógica realmente muito simples!
 
@@ -47,7 +47,7 @@ CRÉDITOS: [Matheus Fortunato](https://github.com/mfortunat0)
 
 ## Projeto 04 - Site Receita Federal <a name="id04"></a>
 
-![Screenshot4]() <br>
+![Screenshot4](https://github.com/LewisM-Dev/10-first-projects-on-frontend/blob/main/img/Screenshot4.png?raw=true) <br>
 
 Esse projeto foi feito para uma dinâmica em grupo, onde ele me foi muito útil. <br>
 Mas o objetivo dele, é criar uma conta bancaria para uma pessoa, onde se possa, colocar e retirar dinheiro!
@@ -57,7 +57,7 @@ Mas o objetivo dele, é criar uma conta bancaria para uma pessoa, onde se possa,
 
 ## Projeto 05 - Cofre Monetário <a name="id05"></a>
 
-![Screenshot5]() <br>
+![Screenshot5](https://github.com/LewisM-Dev/10-first-projects-on-frontend/blob/main/img/Screenshot5.png?raw=true) <br>
 
 Esse projeto ficou super bonitinho, um dos meus preferidos, <br>
 e ele basicamente, converte s sua grana para outras moedas! <br>
@@ -70,7 +70,7 @@ Além de que esse foi o 1° projeto onde eu usei Bootstrap
 
 ## Projeto 06 - Coca Cola Landing Page <a name="id06"></a>
 
-![Screenshot6]() <br>
+![Screenshot6](https://github.com/LewisM-Dev/10-first-projects-on-frontend/blob/main/img/Screenshot6.png?raw=true) <br>
 
 Fiz esse projeto para treinar Design, foi um dos meus primeiros contatos com o figma <br>
 Ficou bem bonito e bem chamativo o projeto!
@@ -80,7 +80,7 @@ Ficou bem bonito e bem chamativo o projeto!
 
 ## Projeto 07 - Página de Login <a name="id07"></a>
 
-![Screenshot7]() <br>
+![Screenshot7](https://github.com/LewisM-Dev/10-first-projects-on-frontend/blob/main/img/Screenshot7.png?raw=true) <br>
 
 Outro Projeto para treinar design
 
@@ -89,7 +89,7 @@ Outro Projeto para treinar design
 
 ## Projeto 08 - Switch(CSS) <a name="id08"></a>
 
-![Screenshot8]() <br>
+![Screenshot8](https://github.com/LewisM-Dev/10-first-projects-on-frontend/blob/main/img/Screenshot8.png?raw=true) <br>
 
 Fiz um Toggle Switch, totalmente em CSS, bem interativo e legal!
 
