@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="css/style.css">
+  <title>Calculadra de Gorjetas | Frontend Mentor</title>
+</head>
+<body>
+
+ <main>
+    <div class="content">
+      <div class="infos">
+        <div>
+          <p>Total da conta:</p>
+
+          <label class="input-number">
+            <span><img src="images/icon-dollar.svg" alt="icon-dollar"></span>
+            <input type="number" placeholder="0" onchange="calcula()" id="bill">
+          </label>
+        </div>
+    
+        <div>
+          <p>Selecione a Gorjeta %</p>
+
+          <br>
+
+          <label class="radio">
+              <input type="radio" name="gorjeta" value="5" class="percent" onchange="muda(5), calcula()">
+              <span>5%</span>
+          </label>
+
+          <label class="radio">
+            <input type="radio" name="gorjeta" value="10" class="percent" onchange="muda(10), calcula()">
+            <span>10%</span>
+          </label>
+
+          <label class="radio">
+            <input type="radio" name="gorjeta" value="15" class="percent" onchange="muda(15), calcula()">
+            <span>15%</span>
+          </label>
+
+          <br> <br>
+
+          <label class="radio">
+            <input type="radio" name="gorjeta" value="25" class="percent" onchange="muda(25), calcula()">
+            <span>25%</span>
+          </label>
+
+          <label class="radio">
+            <input type="radio" name="gorjeta" value="50" class="percent" onchange="muda(50), calcula()">
+            <span>50%</span>
+          </label>
+
+            <input type="number" id="custom" onchange="muda(), calcula()" min="1" max="99" placeholder="Custom">
+        </div>
+    
+        <div>
+          <p>Número de pessoas</p>
+          <label class="input-number">
+            <span><img src="images/icon-person.svg" alt="icon-person"></span>
+            <input type="number" min="1" max="99" placeholder="0" onchange="calcula()" id="person-numbers">
+          </label>
+        </div>
+      </div>
+  
+      <div id="total">
+        <div>
+          <p>
+              Gorjeta <i id="tiPP"><img src="images/icon-dollar2.png" alt="icon-dollar">0.00</i> 
+              <br>
+              <span>/ por pessoa</span>
+          </p>
+
+        </div>
+      
+        <div>
+          <p>
+              Total&emsp;<i id="toPP"> <img src="images/icon-dollar2.png" alt="icon-dollar">0.00</i>
+              <br>
+              <span>/ por pessoa</span>
+          </p>
+        </div>
+        <button onclick="limpa()">RESETAR</button>
+      </div>
+  
+    </div>
+ </main>
+  <div class="attribution">
+    Desafio de <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Feito por <a href="https://github.com/LewisM-Dev" target="_blank">Lewis_Maycon</a>.
+  </div>
+
+  <script src="script/script.js"></script>
+</body>
+</html>
