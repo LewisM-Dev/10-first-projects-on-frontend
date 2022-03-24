@@ -98,7 +98,7 @@ Fiz um Toggle Switch, totalmente em CSS, bem interativo e legal!
 
 ## Projeto 09 - Switch(CSS) <a name="id09"></a>
 
-![Screenshot8](https://github.com/LewisM-Dev/10-first-projects-on-frontend/blob/main/img/Screenshot9.png?raw=true) <br>
+![Screenshot9](https://github.com/LewisM-Dev/10-first-projects-on-frontend/blob/main/img/Screenshot9.png?raw=true) <br>
 
 Desafio do site [Frontend Mentor](https://www.frontendmentor.io/), Foi um dos meus projetos mais longos em HTML e CSS até agora, na parte de JS ele só não foi mais complicado do que meu projeto de Converter Moedas!
 Uma experiência muito bacana, irei fazer mais os desafios desse site!
@@ -108,4 +108,4 @@ Uma experiência muito bacana, irei fazer mais os desafios desse site!
 
 ## Considerações Finais
 Espero que tenham gostado dos projetos, foi uma evolução muito grande fazer todos esse desafios, e acho que aprendi muito como Web Developer!
-Valeuu! ✌
+Valeu e Tmj! ✌
