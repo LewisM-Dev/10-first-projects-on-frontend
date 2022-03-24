@@ -10,7 +10,7 @@ Então sem mais enrolações esses são meus 10 primeiros projetos usando em HTM
 * [📃 Projeto 06 - Coca Cola Landing Page](#id06)
 * [📃 Projeto 07 - Página de Login](#id07)
 * [📃 Projeto 08 - Switch](#id08)
-* [📃 Projeto 09 - (Em breve](#id09)
+* [📃 Projeto 09 - Calculadora de Goreta](#id09)
 * [📃 Projeto 10 - (Em breve)](#id10)
 
 ## Projeto 01 - Formula Flix <a name="id01"></a>
@@ -95,6 +95,16 @@ Fiz um Toggle Switch, totalmente em CSS, bem interativo e legal!
 
 * [🔗 Código do Projeto](https://github.com/LewisM-Dev/10-first-projects-on-frontend/tree/main/Projeto_08%20-%20Switch(CSS)) <br>
 * [🔗 Site do Projeto](https://lewism-dev.github.io/10-first-projects-on-frontend/Projeto_08%20-%20Switch(CSS)/)
+
+## Projeto 09 - Switch(CSS) <a name="id09"></a>
+
+![Screenshot8](https://github.com/LewisM-Dev/10-first-projects-on-frontend/blob/main/img/Screenshot8.png?raw=true) <br>
+
+Desafio do site [Frontend Mentor](https://www.frontendmentor.io/), Foi um dos meus projetos mais longos em HTML e CSS até agora, na parte de JS ele só não foi mais complicado do que meu projeto de Converter Moedas!
+Uma experiência muito bacana, irei fazer mais os desafios desse site!
+
+* [🔗 Código do Projeto](https://github.com/LewisM-Dev/10-first-projects-on-frontend/tree/main/Projeto_09%20-%20Calculadora%20de%20Gorjeta) <br>
+* [🔗 Site do Projeto](https://lewism-dev.github.io/10-first-projects-on-frontend/Projeto_09%20-%20Calculadora%20de%20Gorjeta/)
 
 ## Considerações Finais
 Espero que tenham gostado dos projetos, foi uma evolução muito grande fazer todos esse desafios, e acho que aprendi muito como Web Developer!
