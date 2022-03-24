@@ -10,7 +10,7 @@ Então sem mais enrolações esses são meus 10 primeiros projetos usando em HTM
 * [📃 Projeto 06 - Coca Cola Landing Page](#id06)
 * [📃 Projeto 07 - Página de Login](#id07)
 * [📃 Projeto 08 - Switch](#id08)
-* [📃 Projeto 09 - Calculadora de Goreta](#id09)
+* [📃 Projeto 09 - Calculadora de Gorjeta](#id09)
 * [📃 Projeto 10 - (Em breve)](#id10)
 
 ## Projeto 01 - Formula Flix <a name="id01"></a>
@@ -96,7 +96,7 @@ Fiz um Toggle Switch, totalmente em CSS, bem interativo e legal!
 * [🔗 Código do Projeto](https://github.com/LewisM-Dev/10-first-projects-on-frontend/tree/main/Projeto_08%20-%20Switch(CSS)) <br>
 * [🔗 Site do Projeto](https://lewism-dev.github.io/10-first-projects-on-frontend/Projeto_08%20-%20Switch(CSS)/)
 
-## Projeto 09 - Switch(CSS) <a name="id09"></a>
+## Projeto 09 - Calculadora de Gorjeta <a name="id09"></a>
 
 ![Screenshot9](https://github.com/LewisM-Dev/10-first-projects-on-frontend/blob/main/img/Screenshot9.png?raw=true) <br>
 
