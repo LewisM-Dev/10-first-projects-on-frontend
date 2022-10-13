@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Calculadora</title>
+
+</head>
+
+<body>
+
+
+  <main>
+    <h1>Calculadora</h1>
+    <p id="screen">0</p>
+    <div class="keyboard">
+      <button onclick="clique(7)">7</button>
+      <button onclick="clique(8)">8</button>
+      <button onclick="clique(9)">9</button>
+      <button onclick="apagar()" class="blue-button">DEL</button>
+      <button onclick="clique(4)">4</button>
+      <button onclick="clique(5)">5</button>
+      <button onclick="clique(6)">6</button>
+      <button onclick="clique('+')">+</button>
+      <button onclick="clique(1)">1</button>
+      <button onclick="clique(2)">2</button>
+      <button onclick="clique(3)">3</button>
+      <button onclick="clique('-')">-</button>
+      <button onclick="clique('.')">.</button>
+      <button onclick="clique(0)">0</button>
+      <button onclick="clique('/')">/</button>
+      <button onclick="clique('*')">x</button>
+      <button onclick="resetar()" class="extraLarge blue-button" >RESETAR</button>
+      <button onclick="resultado()" class="extraLarge" id="equal">=</button>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+
+</body>
+
+</html>
