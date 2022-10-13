@@ -11,7 +11,7 @@ Então sem mais enrolações esses são meus 10 primeiros projetos usando em HTM
 * [📃 Projeto 07 - Página de Login](#id07)
 * [📃 Projeto 08 - Switch](#id08)
 * [📃 Projeto 09 - Calculadora de Gorjeta](#id09)
-* [📃 Projeto 10 - (Em breve)](#id10)
+* [📃 Projeto 10 - Saldo Bancário](#id10)
 
 ## Projeto 01 - Formula Flix <a name="id01"></a>
 
@@ -22,7 +22,7 @@ No primeiro projeto aprendi a incorporar imagens, vídeo externos, links de refe
 DETALHE: Esse Projeto Foi Desenvolvido durante a Imersão Dev da Alura, Acesse o site deles clicando [aqui](https://www.alura.com.br/)
 
 * [🔗 Código do Projeto](https://github.com/LewisM-Dev/10-first-projects-on-frontend/tree/main/Projeto_01%20-%20Formula-One-Flix) <br>
-* [🔗 Site do Projeto](https://lewism-dev.github.io/10-first-projects-on-frontend/Projeto_01%20-%20Formula-One-Flix/fl1x.html)
+* [🔗 Site do Projeto](https://lewism-dev.github.io/10-first-projects-on-frontend/Projeto_01%20-%20Formula-One-Flix/)
 
 ## Projeto 02 - Glegoo <a name="id02"></a>
 
@@ -32,7 +32,7 @@ Basicamente uma "Inspiração" (Bem mal feita por sinal 😂) do maior buscador 
 Nesse projeto eu estava treinando como pegar informações de inputs e utilizá-las de alguma forma no JavaScript
 
 * [🔗 Código do Projeto](https://github.com/LewisM-Dev/10-first-projects-on-frontend/tree/main/Projeto_02%20-%20Glegoo) <br>
-* [🔗 Site do Projeto](https://lewism-dev.github.io/10-first-projects-on-frontend/Projeto_02%20-%20Glegoo/Glegoo.html)
+* [🔗 Site do Projeto](https://lewism-dev.github.io/10-first-projects-on-frontend/Projeto_02%20-%20Glegoo/)
 
 ## Projeto 03 - Calculadora <a name="id03"></a>
 
@@ -43,9 +43,9 @@ Uma calculadora com uma lógica realmente muito simples!
 CRÉDITOS: [Matheus Fortunato](https://github.com/mfortunat0)
 
 * [🔗 Código do Projeto](https://github.com/LewisM-Dev/10-first-projects-on-frontend/tree/main/Projeto_03%20-%20Calculadora) <br>
-* [🔗 Site do Projeto](https://lewism-dev.github.io/10-first-projects-on-frontend/Projeto_03%20-%20Calculadora/calcula.html)
+* [🔗 Site do Projeto](https://lewism-dev.github.io/10-first-projects-on-frontend/Projeto_03%20-%20Calculadora/)
 
-## Projeto 04 - Site Receita Federal <a name="id04"></a>
+## Projeto 04 - Receita Federal <a name="id04"></a>
 
 ![Screenshot4](https://github.com/LewisM-Dev/10-first-projects-on-frontend/blob/main/img/Screenshot4.png?raw=true) <br>
 
@@ -55,7 +55,7 @@ Mas o objetivo dele, é criar uma conta bancaria para uma pessoa, onde se possa,
 * [🔗 Código do Projeto](https://github.com/LewisM-Dev/10-first-projects-on-frontend/tree/main/Projeto_04%20-%20Site%20Receita%20Federal) <br>
 * [🔗 Site do Projeto](https://lewism-dev.github.io/10-first-projects-on-frontend/Projeto_04%20-%20Site%20Receita%20Federal/)
 
-## Projeto 05 - Cofre Monetário <a name="id05"></a>
+## Projeto 05 - Cofre monetário <a name="id05"></a>
 
 ![Screenshot5](https://github.com/LewisM-Dev/10-first-projects-on-frontend/blob/main/img/Screenshot5.png?raw=true) <br>
 
@@ -66,9 +66,9 @@ e um pré-carregamento das bandeiras dos respectivos países da moeda selecionad
 Além de que esse foi o 1° projeto onde eu usei Bootstrap
 
 * [🔗 Código do Projeto](https://github.com/LewisM-Dev/10-first-projects-on-frontend/tree/main/Projeto_05%20-%20Cofre%20Monet%C3%A1rio) <br>
-* [🔗 Site do Projeto](https://lewism-dev.github.io/10-first-projects-on-frontend/Projeto_05%20-%20Cofre%20Monet%C3%A1rio/CM.html)
+* [🔗 Site do Projeto](https://lewism-dev.github.io/10-first-projects-on-frontend/Projeto_05%20-%20Cofre%20Monet%C3%A1rio/)
 
-## Projeto 06 - Coca Cola Landing Page <a name="id06"></a>
+## Projeto 06 - Coca Cola landing page <a name="id06"></a>
 
 ![Screenshot6](https://github.com/LewisM-Dev/10-first-projects-on-frontend/blob/main/img/Screenshot6.png?raw=true) <br>
 
@@ -76,9 +76,9 @@ Fiz esse projeto para treinar Design, foi um dos meus primeiros contatos com o f
 Ficou bem bonito e bem chamativo o projeto!
 
 * [🔗 Código do Projeto](https://github.com/LewisM-Dev/10-first-projects-on-frontend/tree/main/Projeto_06%20-%20CocaCola%20Landing%20Page) <br>
-* [🔗 Site do Projeto](https://lewism-dev.github.io/10-first-projects-on-frontend/Projeto_06%20-%20CocaCola%20Landing%20Page/coca.html)
+* [🔗 Site do Projeto](https://lewism-dev.github.io/10-first-projects-on-frontend/Projeto_06%20-%20CocaCola%20Landing%20Page/)
 
-## Projeto 07 - Página de Login <a name="id07"></a>
+## Projeto 07 - Página de login <a name="id07"></a>
 
 ![Screenshot7](https://github.com/LewisM-Dev/10-first-projects-on-frontend/blob/main/img/Screenshot7.png?raw=true) <br>
 
@@ -96,7 +96,7 @@ Fiz um Toggle Switch, totalmente em CSS, bem interativo e legal!
 * [🔗 Código do Projeto](https://github.com/LewisM-Dev/10-first-projects-on-frontend/tree/main/Projeto_08%20-%20Switch(CSS)) <br>
 * [🔗 Site do Projeto](https://lewism-dev.github.io/10-first-projects-on-frontend/Projeto_08%20-%20Switch(CSS)/)
 
-## Projeto 09 - Calculadora de Gorjeta <a name="id09"></a>
+## Projeto 09 - Calculadora de gorjeta <a name="id09"></a>
 
 ![Screenshot9](https://github.com/LewisM-Dev/10-first-projects-on-frontend/blob/main/img/Screenshot9.png?raw=true) <br>
 
@@ -105,6 +105,15 @@ Uma experiência muito bacana, irei fazer mais os desafios desse site!
 
 * [🔗 Código do Projeto](https://github.com/LewisM-Dev/10-first-projects-on-frontend/tree/main/Projeto_09%20-%20Calculadora%20de%20Gorjeta) <br>
 * [🔗 Site do Projeto](https://lewism-dev.github.io/10-first-projects-on-frontend/Projeto_09%20-%20Calculadora%20de%20Gorjeta/)
+
+## Projeto 10 - Saldo bancário <a name="id10"></a>
+
+![Screenshot10]() <br>
+
+Desafio do site [Frontend Mentor](https://www.frontendmentor.io/). Aprendi muito sobre CSS nesse último projeto, gostei bastante do resultado!
+
+* [🔗 Código do Projeto](https://github.com/LewisM-Dev/10-first-projects-on-frontend/tree/main/Projeto_10%20-%20Saldo%20Banc%C3%A1rio) <br>
+* [🔗 Site do Projeto](https://lewism-dev.github.io/10-first-projects-on-frontend/Projeto_10%20-%20Saldo%20Banc%C3%A1rio/)
 
 ## Considerações Finais
 Espero que tenham gostado dos projetos, foi uma evolução muito grande fazer todos esse desafios, e acho que aprendi muito como Web Developer!
