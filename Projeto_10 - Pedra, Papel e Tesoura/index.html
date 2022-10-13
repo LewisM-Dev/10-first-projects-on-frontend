@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <title>Pedra, Papel e Tesoura</title>
+</head>
+<body>
+
+  <main>
+      <header>
+        <img src="images/logo.svg" alt="Logo: Pedra, Papel e Tesoura">
+        <div id="score">
+          <p id="text-score">PONTUAÇÃO</p>
+          <p id="points">0</p>
+        </div>
+      </header>
+      <div class="items">
+        <div id="text-messages">
+          <p>VOCÊ ESCOLHEU</p>
+          <p>O COMPUTADOR ESCOLHEU</p>
+        </div>
+        <div id="paper-tesour">
+          <button id="paper" onclick="play(1)"><img src="images/icon-paper.svg" alt="Icon Paper"></button>
+          <button id="tesoura" onclick="play(2)"><img src="images/icon-scissors.svg" alt="Icon Tesoura"></button>
+          <div id="message-box1" class="message-box">
+            <p id="message1"></p>
+            <button class="again" onclick="playagain()">JOGAR NOVAMENTE</button>
+          </div>
+          <button id="computer1"></button>
+        </div>
+        <div id="rockes">
+          <button id="rock" onclick="play(3)"><img src="images/icon-rock.svg" alt="Icon Rock"></button>
+          <div id="message-box2" class="message-box">
+            <p id="message2"></p>
+            <button class="again" onclick="playagain()">JOGAR NOVAMENTE</button>
+          </div>
+          <button id="computer2"></button>
+        </div>
+        </div>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
