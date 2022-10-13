@@ -108,7 +108,7 @@ Uma experiência muito bacana, irei fazer mais os desafios desse site!
 
 ## Projeto 10 - Saldo bancário <a name="id10"></a>
 
-![Screenshot10]() <br>
+![Screenshot10](https://github.com/LewisM-Dev/10-first-projects-on-frontend/blob/main/img/Screenshot10.png?raw=true) <br>
 
 Desafio do site [Frontend Mentor](https://www.frontendmentor.io/). Aprendi muito sobre CSS nesse último projeto, gostei bastante do resultado!
 
