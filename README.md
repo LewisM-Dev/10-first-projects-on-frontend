@@ -111,10 +111,10 @@ Desafio do site [Frontend Mentor](https://www.frontendmentor.io/). Aprendi muito
 
 ![Screenshot10]() <br>
 
-Desafio do site [Frontend Mentor](https://www.frontendmentor.io/). Aprendi muito sobre CSS nesse último projeto, gostei bastante do resultado!
+Desafio do site [Frontend Mentor](https://www.frontendmentor.io/). Um minigame super legal, e que deu muito trabalho para ser feito, arendi muito sobre JS!
 
-* [🔗 Código do Projeto](https://github.com/LewisM-Dev/10-first-projects-on-frontend/tree/main/Projeto_10%20-%20Saldo%20Banc%C3%A1rio) <br>
-* [🔗 Site do Projeto](https://lewism-dev.github.io/10-first-projects-on-frontend/Projeto_10%20-%20Saldo%20Banc%C3%A1rio/)
+* [🔗 Código do Projeto](https://github.com/LewisM-Dev/10-first-projects-on-frontend/tree/main/Projeto_10%20-%20Pedra%2C%20Papel%20e%20Tesoura/) <br>
+* [🔗 Site do Projeto](https://lewism-dev.github.io/10-first-projects-on-frontend/Projeto_10%20-%20Pedra%2C%20Papel%20e%20Tesoura/)
 
 ## Considerações Finais
 Espero que tenham gostado dos projetos, foi uma evolução muito grande fazer todos esse desafios, e acho que aprendi muito como Web Developer!
