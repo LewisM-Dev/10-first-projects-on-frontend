@@ -8,10 +8,10 @@ Então sem mais enrolações esses são meus 10 primeiros projetos usando em HTM
 * [📃 Projeto 04 - Site Receita Federal](#id04)
 * [📃 Projeto 05 - Cofre Monetário](#id05)
 * [📃 Projeto 06 - Coca Cola Landing Page](#id06)
-* [📃 Projeto 07 - Página de Login](#id07)
-* [📃 Projeto 08 - Switch](#id08)
-* [📃 Projeto 09 - Calculadora de Gorjeta](#id09)
-* [📃 Projeto 10 - Saldo Bancário](#id10)
+* [📃 Projeto 08 - Switch](#id07)
+* [📃 Projeto 09 - Calculadora de Gorjeta](#id08)
+* [📃 Projeto 10 - Saldo Bancário](#id09)
+* [📃 Projeto 10 - Pedra, Papel ou Tesoura](#id10)
 
 ## Projeto 01 - Formula Flix <a name="id01"></a>
 
