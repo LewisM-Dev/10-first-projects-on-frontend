@@ -104,8 +104,8 @@ Uma experiência muito bacana, irei fazer mais os desafios desse site!
 
 Desafio do site [Frontend Mentor](https://www.frontendmentor.io/). Aprendi muito sobre CSS nesse último projeto, gostei bastante do resultado!
 
-* [🔗 Código do Projeto](https://github.com/LewisM-Dev/10-first-projects-on-frontend/tree/main/Projeto_10%20-%20Saldo%20Banc%C3%A1rio) <br>
-* [🔗 Site do Projeto](https://lewism-dev.github.io/10-first-projects-on-frontend/Projeto_10%20-%20Saldo%20Banc%C3%A1rio/)
+* [🔗 Código do Projeto](https://github.com/LewisM-Dev/10-first-projects-on-frontend/tree/main/Projeto_09%20-%20Saldo%20Banc%C3%A1rio) <br>
+* [🔗 Site do Projeto](https://lewism-dev.github.io/10-first-projects-on-frontend/Projeto_09%20-%20Saldo%20Banc%C3%A1rio/)
 
 ## Projeto 10 - Pedra, Papel ou Tesoura <a name="id10"></a>
 
