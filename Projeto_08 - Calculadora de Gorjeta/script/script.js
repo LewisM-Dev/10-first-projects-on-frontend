@@ -1,5 +1,5 @@
 let radio = document.getElementsByClassName("percent");
-var percent;
+let percent;
 
 function muda(selected) {
     let custom = (document.getElementById("custom").value);
