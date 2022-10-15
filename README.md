@@ -60,7 +60,7 @@ Mas o objetivo dele, é criar uma conta bancaria para uma pessoa, onde se possa,
 ![Screenshot5](https://github.com/LewisM-Dev/10-first-projects-on-frontend/blob/main/img/Screenshot5.png?raw=true) <br>
 
 Esse projeto ficou super bonitinho, um dos meus preferidos, <br>
-e ele basicamente, converte s sua grana para outras moedas! <br>
+e ele basicamente, converte a sua grana para outras moedas! <br>
 Ele tem várias funções legais: como o bloqueio se você seleciona 2 moedas do mesmo tipo, <br>
 e um pré-carregamento das bandeiras dos respectivos países da moeda selecionada <br>
 Além de que esse foi o 1° projeto onde eu usei Bootstrap
