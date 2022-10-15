@@ -1,12 +1,12 @@
 function bandeira1(pais) {
 
-  img1 = document.getElementById("bandeira1");
-  img2 = document.getElementById("bandeira2");
+  let img1 = document.getElementById("bandeira1");
+  let img2 = document.getElementById("bandeira2");
 
-  br2 = document.getElementById("BR2");
-  eua2 = document.getElementById("EUA2");
-  eur2 = document.getElementById("EUR2");
-  nulo2 = document.getElementById("nulo");
+  let br2 = document.getElementById("BR2");
+  let eua2 = document.getElementById("EUA2");
+  let eur2 = document.getElementById("EUR2");
+  let nulo2 = document.getElementById("nulo");
 
   if (pais == "BR" & br2.selected == false) {
     img1.innerHTML = "<img src='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/282/flag-brazil_1f1e7-1f1f7.png'>";
@@ -55,7 +55,7 @@ function bandeira1(pais) {
 
 function bandeira2(pais2) {
 
-  img2 = document.getElementById("bandeira2")
+  let img2 = document.getElementById("bandeira2")
 
   if (pais2 == "BR2") {
     img2.innerHTML = "<img src='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/282/flag-brazil_1f1e7-1f1f7.png'>"
@@ -67,19 +67,19 @@ function bandeira2(pais2) {
 }
 
 function enviar() {
-  br = document.getElementById("BR");
-  eua = document.getElementById("EUA");
-  eur = document.getElementById("EUR");
+ let br = document.getElementById("BR");
+ let eua = document.getElementById("EUA");
+  let eur = document.getElementById("EUR");
 
-  br2 = document.getElementById("BR2");
-  eua2 = document.getElementById("EUA2");
-  eur2 = document.getElementById("EUR2");
-  nulo2 = document.getElementById("nulo");
+  let br2 = document.getElementById("BR2");
+ let eua2 = document.getElementById("EUA2");
+  let eur2 = document.getElementById("EUR2");
+  let nulo2 = document.getElementById("nulo");
 
 
-  dinheiro = parseFloat(document.getElementById("valor").value)
-  escreva = document.getElementById("escreva")
-  escreve = document.getElementById("escreve")
+  let dinheiro = parseFloat(document.getElementById("valor").value)
+  let escreva = document.getElementById("escreva")
+  let escreve = document.getElementById("escreve")
 
   if (dinheiro <= 9999999999 & dinheiro > 0) {
     if (nulo2.selected === true) {
