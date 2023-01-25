@@ -2,7 +2,7 @@
 Opa, tudo bom? Eu decidi que ia postar meus primeiros projetos de Desenvolvimento Web <br>
 Então sem mais enrolações esses são meus 10 primeiros projetos usando em HTML, CSS e JavaScript:
 
-* [📃 Projeto 01 - Formula Flix](#id01)
+* [📃 Projeto 01 - Fórmula 1 Fan Page](#id01)
 * [📃 Projeto 02 - Glegoo](#id02)
 * [📃 Projeto 03 - Calculadora](#id03)
 * [📃 Projeto 04 - Site Receita Federal](#id04)
@@ -13,7 +13,7 @@ Então sem mais enrolações esses são meus 10 primeiros projetos usando em HTM
 * [📃 Projeto 10 - Saldo Bancário](#id09)
 * [📃 Projeto 10 - Pedra, Papel ou Tesoura](#id10)
 
-## Projeto 01 - Formula Flix <a name="id01"></a>
+## Projeto 01 - Fórmula 1 Fan Page <a name="id01"></a>
 
 ![Screenshot1](https://github.com/LewisM-Dev/10-first-projects-on-frontend/blob/main/img/Screenshot1.png?raw=true) <br>
 
@@ -21,8 +21,8 @@ No primeiro projeto aprendi a incorporar imagens, vídeo externos, links de refe
 
 DETALHE: Esse Projeto Foi Desenvolvido durante a Imersão Dev da Alura, Acesse o site deles clicando [aqui](https://www.alura.com.br/)
 
-* [🔗 Código do Projeto](https://github.com/LewisM-Dev/10-first-projects-on-frontend/tree/main/Projeto_01%20-%20Formula-One-Flix) <br>
-* [🔗 Site do Projeto](https://lewism-dev.github.io/10-first-projects-on-frontend/Projeto_01%20-%20Formula-One-Flix/)
+* [🔗 Código do Projeto](https://github.com/LewisM-Dev/10-first-projects-on-frontend/tree/main/Projeto_01%20-%20Fórmula%201%20Fan%20Page) <br>
+* [🔗 Site do Projeto](https://lewism-dev.github.io/10-first-projects-on-frontend/Projeto_01%20-%20Fórmula%201%20Fan%20Page/)
 
 ## Projeto 02 - Glegoo <a name="id02"></a>
 
